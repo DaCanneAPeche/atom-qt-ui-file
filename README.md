@@ -1,2 +1,1 @@
-# atom-qt-ui-file
-An implemetation of qt ui file editing in atom text editor.
+Working in progress (see development branch)

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle qt-ui",
+        "command": "qt-ui:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "qt-ui",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "qt-ui:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
